@@ -9,15 +9,23 @@ This PHP project provides user authentication, dashboard functionality, and secu
 3. [Files and Features](#files-and-features)
    
    3.1. [config/config.php](#configconfigphp)
+   
    3.2. [login.php](#loginphp)
+
    3.3. [register.php](#registerphp)
+
    3.4. [check.php](#checkphp)
+
    3.5. [dashboard.php](#dashboardphp)
+
    3.6. [logout.php](#logoutphp)
+
    3.7. [password\_reset.php](#password_resetphp)
+
    3.8. [2FA.php](#2faphp)
+
    3.9. [thanks.php](#thanksphp)
-4. [Dependencies](#dependencies)
+5. [Dependencies](#dependencies)
 
 ## Getting Started
 
