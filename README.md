@@ -7,6 +7,7 @@ This PHP project provides user authentication, dashboard functionality, and secu
 1. [Getting Started](#getting-started)
 2. [Security Measures](#security-measures)
 3. [Files and Features](#files-and-features)
+   
    3.1. [config/config.php](#configconfigphp)
    3.2. [login.php](#loginphp)
    3.3. [register.php](#registerphp)
