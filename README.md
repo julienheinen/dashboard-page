@@ -2,7 +2,10 @@
 
 This PHP project provides user authentication, dashboard functionality, and security measures to protect against malicious users. It includes login, registration, password reset, two-factor authentication (2FA), and payment verification features.
 
-![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}) ![image]({https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white}) ![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}) ![image]({https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white})
+![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}) 
+![image]({https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white}) 
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}) 
+![image]({https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white})
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
